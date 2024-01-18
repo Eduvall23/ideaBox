@@ -19,7 +19,7 @@ We built an interface to create, store, and organize new ideas!</br>
 - Run `git clone` on command line followed by the the pasted SSH link
 - Run `code .` on command line to open in text editor
 - Run `open index.html` on command line to open the application in the browser
-- Alternatively, deployed site can be found [here](https://tednaphil.github.io/ideaBox/).
+- Alternatively, deployed site can be found [here](https://Eduvall23.github.io/ideaBox/).
 
 ## Preview of App
 ![Recorded_screen_1_V1](https://github.com/tednaphil/ideaBox/assets/76406423/40b3b1e8-3360-4d73-9c5a-d8d04997792c)
